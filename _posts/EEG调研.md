@@ -9,6 +9,7 @@ catalog: true
 tags:
     - neurosciences
 ---
+
 > EEG是神经科学的常用研究工具，本文对EEG进行了相关市场调研，为后续设备采购提供方案
 
 ## EEG简单介绍

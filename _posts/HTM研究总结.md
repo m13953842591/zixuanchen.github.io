@@ -1,4 +1,18 @@
-﻿
+﻿layout:     post
+title:      HTM研究总结
+subtitle:   Numenta
+date:       2020-2-26
+author:     Zixuan Chen
+header-img: img/post-bg-htm.jpg
+catalog: true
+tags:
+    - neurosciences
+    - numenta
+    - HTM
+---
+
+> 本文总结了HTM具有代表性的研究工作和相关资料
+
 # 1 思想和生物学基础《On Intelligence》
 **核心思想**
 大脑使用大量的记忆来创建一个世界模型。您所知道和已经学到的一切都存储在这个模型中。大脑使用这种基于记忆的模型对未来事件进行连续预测。**预测未来的能力是智能的关键**。
