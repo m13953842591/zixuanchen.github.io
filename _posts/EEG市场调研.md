@@ -1,4 +1,16 @@
-﻿## EEG简单介绍
+﻿---
+layout:     post
+title:      EEG调研
+subtitle:   神经科学笔记
+date:       2020-6-22
+author:     Zixuan Chen
+header-img: img/post-bg-eeg.jpg
+catalog: true
+tags:
+    - neurosciences
+---
+
+## EEG简单介绍
 EEG是**E**lectro**E**ncephalo**G**raphy（脑电图描记法）的简写，是一种非侵入式的脑电波采集技术。
 ![图片来自](https://img-blog.csdnimg.cn/20200615092638137.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5MzE4NDQz,size_16,color_FFFFFF,t_70#pic_center =600x)
 在脑电图中，扁平的金属盘(电极)连接到你的头皮上。在高密度脑电图中，如图所示，电极被紧密地间隔在一起。电极通过电线连接到脑电图机上。有些人戴上有电极的弹性帽，而不是把粘合剂涂在头皮上。
