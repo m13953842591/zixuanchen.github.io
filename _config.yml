@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: m13953842591@sjtu.edu.cn
 description: "Every failure is leading towards success."
 keyword: "Zixuan Chen, 陈子轩, Machine Learing, Algorithms, Neurosciences, Aritificial Intelligence"
-url: "http://zixuanchen.github.io"          # your host, for absolute URL
+url: "http://m13953842591.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/m13953842591/zixuanchen.github.io.git" # you code repository
+github_repo: "https://github.com/m13953842591/m13953842591.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
