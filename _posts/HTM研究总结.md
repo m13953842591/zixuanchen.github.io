@@ -4,7 +4,7 @@ title:      HTM研究总结
 subtitle:   Numenta
 date:       2020-2-26
 author:     Zixuan Chen
-header-img: img/post-bg-htm.jpg
+header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - neurosciences

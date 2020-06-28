@@ -4,7 +4,7 @@ title:      EEG调研
 subtitle:   神经科学笔记
 date:       2020-6-22
 author:     Zixuan Chen
-header-img: img/post-bg-eeg.jpg
+header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - neurosciences
