@@ -1,4 +1,5 @@
-﻿layout:     post
+﻿---
+layout:     post
 title:      HTM研究总结
 subtitle:   Numenta
 date:       2020-2-26
